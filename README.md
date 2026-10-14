@@ -1,35 +1,37 @@
 # EV Charging Stations in Goa
 
-This repository contains a dataset of electric vehicle (EV) charging stations in Goa, India. It is intended for analysis, mapping, and research related to EV infrastructure, urban mobility, and sustainable transport planning.
+This repository contains a dataset of electric vehicle (EV) charging stations in Goa, India. It is intended for data analysis, mapping, and research related to EV infrastructure, urban mobility, and sustainable transport planning.
 
-## Contents
+## Repository Contents
 
-- `EV Charging Stations in Goa.xlsx` — structured spreadsheet containing the charging station dataset
-- `GitHub Documentation_EV Charging stations in Goa.docx` — documentation and supporting notes for the dataset
-- `README.md` — overview and usage information for the repository
+- `EV Charging Stations in Goa.xlsx` — spreadsheet dataset containing charging station records
+- `GitHub Documentation_EV Charging stations in Goa.docx` — supporting documentation for the dataset
+- `README.md` — overview of the project and usage guidance
 
-## Purpose
+## Project Purpose
 
-The dataset helps users explore:
+The dataset can be used to study:
 
-- locations of EV charging stations across Goa
-- regional charging access and availability
-- planning support for EV adoption and infrastructure development
-- data analysis and visualization for mobility and sustainability projects
+- EV charging station locations across Goa
+- regional access to charging infrastructure
+- spatial distribution and demand patterns
+- policy planning for electric mobility adoption
+- urban planning and sustainability research
 
-## Suggested Use
+## Suggested Uses
 
-This repository can be used for:
+This repository is suitable for:
 
 - data cleaning and exploratory analysis
-- dashboard or map-based visualization
-- policy and infrastructure planning studies
-- academic or project-based research on EV adoption
+- GIS and map-based visualization
+- dashboard creation for EV infrastructure insights
+- academic or project-based research on electric mobility
+- planning and policy analysis for sustainable transport
 
 ## Notes
 
-The repository is a data-focused project and may be expanded with additional documentation, scripts, or visualizations in the future.
+This is a data-focused repository and may be expanded with additional scripts, visualizations, or documentation in the future.
 
 ## Repository Description
 
-`EV charging station dataset for Goa, including location data and documentation for EV infrastructure analysis.`
+EV charging station dataset for Goa, including location data and documentation for EV infrastructure analysis.
